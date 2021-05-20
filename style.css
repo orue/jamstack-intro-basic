@@ -1,0 +1,26 @@
+html,
+body{
+  color: #555;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+main {
+  margin: 3rem auto;
+  max-width: 90vw;
+  width: 50ch;
+
+
+}
+
+h1 {
+  color: #333;
+}
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
